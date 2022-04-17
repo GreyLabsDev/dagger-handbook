@@ -21,3 +21,5 @@ Dagger 2 - реализует подход Dependency Injection в разраб�
 [@AssistedFactory](@AssistedF%2048aa1.md)
 
 [AndroidInjection](AndroidInj%206d08b.md)
+
+[@Binds](@Binds.md)
